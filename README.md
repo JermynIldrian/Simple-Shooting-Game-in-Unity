@@ -1,5 +1,7 @@
 # Dockyard Chaos in Unity
 
+![Dockyard Gif](/images/Dockyard.gif)
+
 A simple **first-person shooting game** built in Unity.  
 This project demonstrates the core FPS gameplay systems — shooting, enemy waves, boss fight mechanics, health and UI management, and destructible objects.
 
