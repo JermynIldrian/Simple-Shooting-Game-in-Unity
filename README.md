@@ -1,11 +1,11 @@
-# 🎯 Simple Shooting Game in Unity
+# Simple Shooting Game in Unity
 
 A simple **first-person shooting game** built in Unity.  
 This project demonstrates the core FPS gameplay systems — shooting, enemy waves, boss fight mechanics, health and UI management, and destructible objects.
 
 ---
 
-## 🕹️ Gameplay Overview
+##  Gameplay Overview
 - The player shoots **rockets** to defeat enemies **or destroy objects**.
 - The player needs to survive and avoid projectiles from enemies.
 - Destroying all enemies unlocks the next area.
@@ -15,7 +15,7 @@ This project demonstrates the core FPS gameplay systems — shooting, enemy wave
 
 ---
 
-## 💻 Script Files and Their Purposes
+## Script Files and Their Purposes
 
 ---
 
