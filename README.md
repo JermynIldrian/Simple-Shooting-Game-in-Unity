@@ -113,8 +113,9 @@ public class EnemyShootScript : MonoBehaviour
 
 ---
 
-### EnemyCounter.cs — Tracks total enemies and unlocks new areas
+### `EnemyCounter.cs` — Tracks total enemies and unlocks new areas
 
+```csharp
 using UnityEngine;
 
 public class EnemyCounter : MonoBehaviour
@@ -141,4 +142,4 @@ public class EnemyCounter : MonoBehaviour
         }
     }
 }
-
+```
