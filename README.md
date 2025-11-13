@@ -15,6 +15,13 @@ This project demonstrates the core FPS gameplay systems — shooting, enemy wave
 
 ---
 
+## Notes / What’s Not Included
+- This project focuses on **shooting mechanics, enemy interactions, destructible objects, boss logic, and UI updates**.
+- **Player movement, scene transitions, or other basic FPS mechanics** are not included.
+- All scripts are provided to showcase core gameplay logic; additional systems would need to be implemented separately.
+
+---
+
 ## Script Files and Their Purposes
 
 ---
